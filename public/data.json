@@ -1,0 +1,81 @@
+{
+    "orderId": "32457ABC",
+    "orderShortDetails": [
+        {
+            "label": "Supplier",
+            "value": "East coast fruits & vegetables"
+        },
+        {
+            "label": "Shipping date",
+            "value": "Thu, Feb 10"
+        },
+        {
+            "label": "Total",
+            "value": "$15,028.3"
+        },
+        {
+            "label": "Category",
+            "value": ""
+        },
+        {
+            "label": "Department",
+            "value": "300-444-678"
+        },
+        {
+            "label": "Status",
+            "value": "Awaiting your approval"
+        }
+    ],
+    "orderList": [
+        {
+            "id": 1,
+            "productName": "Chicken Breast, Boneless matuumaMarinated 6 Ounce Raw, Invivid",
+            "brand": "Hormel Black Labelmany",
+            "price": 60.67,
+            "quantity": 0,
+            "total": 0,
+            "status": "",
+            "isApproved": false
+        },
+        {
+            "id": 2,
+            "productName": "Chicken Breast, Boneless matuumaMarinated 6 Ounce Raw, Invivid",
+            "brand": "Hormel Black Labelmany",
+            "price": 60.67,
+            "quantity": 15,
+            "total": 9000.88,
+            "status": "",
+            "isApproved": false
+        },
+        {
+            "id": 3,
+            "productName": "Chicken Breast, Boneless matuumaMarinated 6 Ounce Raw, Invivid",
+            "brand": "Hormel Black Labelmany",
+            "price": 60.67,
+            "quantity": 15,
+            "total": 9000.88,
+            "status": "",
+            "isApproved": false
+        },
+        {
+            "id": 4,
+            "productName": "Chicken Breast, Boneless matuumaMarinated 6 Ounce Raw, Invivid",
+            "brand": "Hormel Black Labelmany",
+            "price": 60.67,
+            "quantity": 0,
+            "total": 0,
+            "status": "",
+            "isApproved": false
+        },
+        {
+            "id": 5,
+            "productName": "Chicken Breast, Boneless matuumaMarinated 6 Ounce Raw, Invivid",
+            "brand": "Hormel Black Labelmany",
+            "price": 60.67,
+            "quantity": 13,
+            "total": 12654.32,
+            "status": "",
+            "isApproved": false
+        }
+    ]
+}
